@@ -1,0 +1,12 @@
+{
+    "name": "vatson/package2",
+    "authors": [
+        {
+            "name": "Vadim Tyukov",
+            "email": "brainreflex@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
