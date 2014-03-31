@@ -7,7 +7,6 @@
         }
     ],
     "require": {
-        "opis/events": "*",
         "opis/routing": "*"
     }
 }
